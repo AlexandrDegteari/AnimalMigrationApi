@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "764251",
+    "database": "qpos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "764251",
+    "database": "qpos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "764251",
+    "database": "qpos",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
